@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Weather Kotlin</string>
+    <string name="app_name">Weather</string>
+
+    <string name="search_place">Search Places</string>
+    <string name="demo_date">9 january 2:12 pm</string>
+    <string name="defaults_numbers">100</string>
+    <string name="pressure">Pressure</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="temperature_in_f">Temperature in f</string>
+    <string name="dat">Day 17</string>
+    <string name="night">Night 9</string>
+    <string name="main_temp">16*</string>
+    <string name="feels_alike">feels a like</string>
+    <string name="weather_type">Drizzle</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+
+
 </resources>
